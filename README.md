@@ -4,7 +4,7 @@
 - [@Saurabh kumar pandey](https://github.com/saurabh175/Internetfolks_assignment)
 
 
-# Project Title
+# The Internet Folks: SDE Intern Assignment [002]
 
 
 # The Internet Folks: SDE Intern Assignment [002]
