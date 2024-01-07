@@ -7,7 +7,7 @@
 # Project Title
 
 
-# Your Project Name
+# The Internet Folks: SDE Intern Assignment [002]
 
 This project includes authentication, community creation, and member management functionalities. It uses Node.js with Express for the backend, MongoDB as the database, and Postman for testing API endpoints.
 
